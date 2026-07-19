@@ -41,4 +41,4 @@ VIP and High-tier customers (top 50% by CLV) should be prioritized for premium r
 
 ### 📊 Tableau Visual
 <img width="2194" height="1544" alt="image" src="https://github.com/user-attachments/assets/0a11a6af-8510-4238-a140-4c293d9b2188" />
-# ================================================
+# =====================================================================
